@@ -4,3 +4,6 @@ pypdf==4.0.0
 python-dotenv==1.0.1
 streamlit==1.30.0
 spacy==3.7.2
+chromadb==0.4.22
+tiktoken==0.5.2
+langchain-openai==0.0.3
